@@ -1,5 +1,4 @@
-Python will be introduced and used primarily via the IPython (or Jupyter) Notebooks, and will cover the Numpy, Scipy, MatPlotlib, Pandas, 
-Seaborn, and scikit_learn Python modules. These capabilities will be demonstrated through simple data science tasks such as obtaining data, 
+For this project, I would use Python, primarily via the IPython (or Jupyter) Notebooks to explore different topics in data science. Numpy, Scipy, MatPlotlib, Pandas, Seaborn, and scikit_learn Python modules will be applied throughout the whole project. These capabilities will be demonstrated through simple data science tasks such as obtaining data, 
 cleaning data, visualizing data, and basic data analysis. Topics will include:
 (1)General Linear Models
 (2)Supervised Machine Learning
