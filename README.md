@@ -13,4 +13,4 @@ cleaning data, visualizing data, and basic data analysis. Topics will include:
 (11)Cloud Computing
 (12)NoSQL DataStores
 (13)Spark
-(14)Deep Learning
+(14)Deep Learning.
